@@ -4,5 +4,6 @@ h1{
     text-align:center;}
 body{background-color:black;}
     #img{border-width:8px;
-    width:20%;}
-
+    width:21%;}
+    #img2{border-width:8px;
+    width:50%;}
